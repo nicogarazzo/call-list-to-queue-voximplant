@@ -1,4 +1,10 @@
 # call-list-to-queue-voximplant
+
+https://voximplant.com/docs/howtos/acd/queue
+
+https://voximplant.com/docs/tutorials/acd/acd-call-queuing
+
+
 How to build a call queue
 
 Our platform can accept multiple incoming calls, but a human operator can speak only with one person at a time. This can be solved by a call queue: while the operator speaks with a user, all other users are waiting in a queue, with optional waiting music being played and/or the synthesized message informing the users about the remaining waiting time.
